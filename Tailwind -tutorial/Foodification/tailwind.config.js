@@ -1,5 +1,6 @@
 /** @type {import('tailwindcss').Config} */
 export default {
+  darkMode: 'class',
   content: ["./src/**/*.{html,js}", "./public/*.{html,js}"],
   theme: {
     extend: {
@@ -25,7 +26,7 @@ export default {
           700: "#888883",
           800: "#5a5a55",
           900: "#2d2d2b"
-        }
+        },
       },
       fontFamily: {
         nunito: ["Nunito", "sans-serif"]
