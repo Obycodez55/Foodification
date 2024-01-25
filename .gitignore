@@ -1,0 +1,4 @@
+/node_modules
+.env
+tailwind-default.config.js
+/public/mystyles.css
