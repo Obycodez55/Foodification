@@ -2,3 +2,6 @@
 .env
 tailwind-default.config.js
 /public/mystyles.css
+app.js
+/dist
+/api
